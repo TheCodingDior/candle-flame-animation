@@ -4,13 +4,6 @@ This project is a **pure HTML and CSS animation** of a candle flame, designed to
 
 ---
 
-## 🎥 Preview
-
-![Candle Flame Preview]![Screenshot](https://github.com/user-attachments/assets/082701ca-3beb-439b-b104-a21b802e8224)
-*Open `index.html` in your browser to see it in action.*
-
----
-
 ## 📂 Project Structure
 
 css-candle-flame-animation
