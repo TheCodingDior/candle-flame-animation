@@ -1,7 +1,7 @@
 # 🔥 CSS Candle Flame Animation
 
-This project is a **pure HTML and CSS animation** of a candle flame, designed to create a realistic flickering effect without using any images or JavaScript. It's lightweight, responsive, and visually appealing — ideal for learning CSS animations or adding a cozy visual to your webpage.
-
+A lightweight and realistic candle flame animation built using HTML, CSS, and JavaScript.
+The flame flickers naturally with smooth keyframe animations, while JavaScript adds dynamic effects for a more lifelike glow.
 ---
 
 ## 📂 Project Structure
